@@ -42,6 +42,7 @@ cpp-learning-journey/
 ├── README.md
 ├── .gitignore
 └── dice.cpp
+```
 ---
 
 ## 🎲 First Program — Dice Roller
@@ -54,10 +55,10 @@ It simulates rolling a six-sided die and generates a random number between **1 a
 
 This project helped me practice:
 
-- `iostream`
+- iostream
 - Random number generation
 - Variables
-- `cout`
+- cout
 - Basic C++ program structure
 
 ---
@@ -72,25 +73,28 @@ I will continue adding programs and projects to this repository as I learn new C
 
 ---
 
+
 ## 📈 Learning Progress
 
-- [x] C++ environment setup
-- [x] First C++ program
-- [x] Basic input/output
-- [x] Basic variables
-- [x] Random number generation
-- [ ] Operators
-- [ ] Conditional statements
-- [ ] Loops
-- [ ] Functions
-- [ ] Arrays and strings
-- [ ] Pointers and references
-- [ ] Object-Oriented Programming
-- [ ] STL
-- [ ] File handling
-- [ ] Data structures and algorithms
-- [ ] Larger C++ projects
-
+- 🟢 C++ environment setup
+- 🟢 First C++ program
+- 🟢 Basic input/output
+- 🟢 Basic variables
+- 🟢 Random number generation
+- 🔵 Operators
+- 🔵 Conditional statements
+- 🔵 Loops
+- 🔵 Functions
+- 🔵 Arrays and strings
+- 🔵 Pointers and references
+- 🔵 Object-Oriented Programming
+- 🔵 STL
+- 🔵 File handling
+- 🔵 Data structures and algorithms
+- 🔵 Larger C++ projects## 📈 Learning Progress
+  🔵=To learn
+  🟢=Completed
+  
 ---
 
 ## 🛠️ Tools
