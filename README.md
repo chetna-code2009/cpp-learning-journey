@@ -91,9 +91,10 @@ I will continue adding programs and projects to this repository as I learn new C
 - 🔵 STL
 - 🔵 File handling
 - 🔵 Data structures and algorithms
-- 🔵 Larger C++ projects## 📈 Learning Progress
-  🔵=To learn
-  🟢=Completed
+- 🔵 Larger C++ projects
+
+  🔵=To learn<br>
+  🟢=Completed<br>
   
 ---
 
