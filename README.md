@@ -1,11 +1,11 @@
 
-# C++ Learning Journey 🚀
+# 🚀 C++ Learning Journey
 
 Welcome to my C++ learning repository!
 
-This repository documents my journey of learning **C++ programming**, starting from simple beginner programs and gradually moving toward more advanced concepts and projects.
+This repository documents my journey of learning **C++ programming** from the fundamentals and gradually progressing toward **Object-Oriented Programming, data structures, algorithms, and larger projects**.
 
-I created this repository to practice consistently, track my progress, and build a public record of my development as a programmer.
+The purpose of this repository is to practice consistently, understand programming concepts through code, and maintain a record of my progress as I develop my programming skills.
 
 ---
 
@@ -25,11 +25,13 @@ My C++ learning journey will gradually cover:
 - Pointers and references
 - Object-Oriented Programming (OOP)
 - Classes and objects
-- Inheritance and polymorphism
-- STL (Standard Template Library)
+- Constructors
+- Inheritance
+- Polymorphism
+- Standard Template Library (STL)
 - File handling
-- Problem solving and algorithms
 - Data structures
+- Algorithms and problem solving
 - C++ projects
 
 ---
@@ -42,7 +44,10 @@ cpp-learning-journey/
 ├── README.md
 ├── .gitignore
 └── dice.cpp
-```
+````
+
+The repository structure will grow as I add more programs and projects.
+
 ---
 
 ## 🎲 First Program — Dice Roller
@@ -51,60 +56,81 @@ cpp-learning-journey/
 
 My first beginner C++ program.
 
-It simulates rolling a six-sided die and generates a random number between **1 and 6**.
+The program simulates rolling a six-sided die and generates a random number between **1 and 6**.
 
-This project helped me practice:
+### Concepts Practiced
 
-- iostream
-- Random number generation
-- Variables
-- cout
-- Basic C++ program structure
-
----
-
-## 🎯 My Goal
-
-My goal is not just to memorize C++ syntax.
-
-I want to understand how programs work, improve my problem-solving ability, write cleaner code, and gradually build more meaningful projects.
-
-I will continue adding programs and projects to this repository as I learn new C++ concepts.
+* `#include <iostream>`
+* `#include <cstdlib>`
+* `#include <ctime>`
+* Variables
+* Random number generation
+* `cout`
+* Basic C++ program structure
+* Compiling and running a C++ program
 
 ---
 
+## 🎯 Learning Goals
+
+My goal is to move beyond simply memorizing syntax.
+
+I want to learn how to:
+
+* Understand how programs work
+* Solve problems logically
+* Write readable and maintainable code
+* Build programs independently
+* Understand Object-Oriented Programming
+* Learn data structures and algorithms
+* Build increasingly complex projects
+* Use Git and GitHub effectively
+
+---
 
 ## 📈 Learning Progress
 
-- 🟢 C++ environment setup
-- 🟢 First C++ program
-- 🟢 Basic input/output
-- 🟢 Basic variables
-- 🟢 Random number generation
-- 🔵 Operators
-- 🔵 Conditional statements
-- 🔵 Loops
-- 🔵 Functions
-- 🔵 Arrays and strings
-- 🔵 Pointers and references
-- 🔵 Object-Oriented Programming
-- 🔵 STL
-- 🔵 File handling
-- 🔵 Data structures and algorithms
-- 🔵 Larger C++ projects
+### 🟢 Completed / Practiced
 
-  🔵=To learn<br>
-  🟢=Completed<br>
-  
+* C++ environment setup
+* First C++ program
+* Basic program structure
+* Basic input/output
+* Variables
+* Basic random number generation
+
+### 🔵 Currently Learning / To Learn
+
+* Operators
+* Conditional statements
+* Loops
+* Functions
+* Arrays
+* Strings
+* Pointers and references
+* Object-Oriented Programming
+* Classes and objects
+* Constructors
+* Inheritance
+* Polymorphism
+* STL
+* File handling
+* Data structures
+* Algorithms
+* Larger C++ projects
+
+> 🔵 = Learning / To Learn
+> 🟢 = Completed / Practiced
+
 ---
 
 ## 🛠️ Tools
 
-- **Language:** C++
-- **Editor:** Visual Studio Code
-- **Compiler:** GCC / MinGW (MSYS2)
-- **Version Control:** Git
-- **Repository:** GitHub
+* **Language:** C++
+* **Editor:** Visual Studio Code
+* **Compiler:** GCC / MinGW (MSYS2)
+* **Version Control:** Git
+* **Repository:** GitHub
 
 ---
 
@@ -112,6 +138,12 @@ I will continue adding programs and projects to this repository as I learn new C
 
 This repository is a record of my learning process.
 
-The programs here may start simple, but they will become more complex as my understanding of C++ improves.
+The programs may start simple, but they will become more complex as my understanding of C++ improves.
+
+I will continue adding programs, exercises, and projects as I learn new concepts.
 
 > **One program at a time. One concept at a time.**
+
+```
+
+```
